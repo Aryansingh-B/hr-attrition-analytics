@@ -20,7 +20,7 @@ build/
 .env.local
 *.env
 
-# Data files (large raw files 
+# Data files 
 data/raw/*.csv
 # Keep processed data committed 
 !data/processed/
