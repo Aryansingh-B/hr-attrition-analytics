@@ -29,8 +29,6 @@ Employee attrition costs organizations **1.5–2× an employee's annual salary**
 |---|---|
 | ![Overview](dashboard/dashboard_screenshots/overview.png) | ![Drillthrough](dashboard/dashboard_screenshots/drillthrough.png) |
 
-> 🔗 **[Download Power BI Dashboard (.pbix)](dashboard/HR_Attrition_Dashboard.pbix)**
-
 ---
 
 ## 🔍 Key Findings
