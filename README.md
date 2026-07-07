@@ -30,7 +30,7 @@ This project simulates the work of a data analyst embedded in an HR team, tasked
 
 | Overview Page | Drill-Through Analysis | Risk Dashboard |
 |---|---|---|
-| ![Overview](dashboard/dashboard_screenshots/overview.png) | ![Drillthrough](dashboard/dashboard_screenshots/drillthrough.png) | ![Risk](dashboard/dashboard_screenshots/risk_dashboard.png) |
+| ![Overview](dashboard/dashboard_screenshots/Overview.png) | ![Drillthrough](dashboard/dashboard_screenshots/DrillThrough.png) | ![Risk](dashboard/dashboard_screenshots/risk_dashboard.png) |
 
 > Download the Power BI file: [HR_Attrition_Dashboard.pbix](dashboard/HR_Attrition_Dashboard.pbix)
 
