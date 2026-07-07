@@ -1,0 +1,82 @@
+{
+  "name": "HR Attrition - Corporate Trust",
+  "dataColors": [
+    "#2E6F9E",
+    "#F5A623",
+    "#1B2A4A",
+    "#5FAD8C",
+    "#E86A5C",
+    "#7FA9C7",
+    "#B8860B",
+    "#6C7A91"
+  ],
+  "good": "#5FAD8C",
+  "bad": "#E86A5C",
+  "neutral": "#F5A623",
+  "background": "#F7F9FC",
+  "foreground": "#1B2A4A",
+  "tableAccent": "#2E6F9E",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 30,
+      "color": "#1B2A4A"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 16,
+      "color": "#1B2A4A"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
+      "color": "#1B2A4A"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#5C6B7A"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#E3E8EF" } }, "radius": 8 }
+        ],
+        "dropShadow": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#1B2A4A" } },
+            "transparency": 92,
+            "position": "Outside",
+            "shadowBlur": 8
+          }
+        ],
+        "title": [
+          { "fontColor": { "solid": { "color": "#1B2A4A" } }, "background": { "solid": { "color": "#FFFFFF" } }, "fontSize": 14, "bold": true }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          { "color": { "solid": { "color": "#1B2A4A" } }, "fontSize": 28 }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#5C6B7A" } }, "fontSize": 11 }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#F7F9FC" } }, "transparency": 0 }
+        ]
+      }
+    }
+  }
+}
