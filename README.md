@@ -32,7 +32,7 @@ This project simulates the work of a data analyst embedded in an HR team, tasked
 |---|---|---|
 | ![Overview](dashboard/dashboard_screenshots/Overview.png) | ![Drillthrough](dashboard/dashboard_screenshots/DrillThrough.png) | ![Risk](dashboard/dashboard_screenshots/risk_dashboard.png) |
 
-> Download the Power BI file: [HR_Attrition_Dashboard.pbix](dashboard/HR_Attrition_Dashboard.pbix)
+> Download the Power BI file: [HR_Attrition_Dashboard.pbix](dashboard/hr_attrition_dashboard.pbix)
 
 ---
 
